@@ -5,7 +5,7 @@ Kim Garcia Moguer
 - Bachelor of Science in Computer Science, New Era University
 
 ### Certifications
--
+- SQL and Relational Databases 101
 
 ### Skillsets
 - Programming Languages: JavaScript
