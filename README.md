@@ -6,6 +6,7 @@ Kim Garcia Moguer
 
 ### Certifications
 - SQL and Relational Databases 101
+- Oracle Cloud Infrastructure Data Foundations Associate (2024)
 
 ### Skillsets
 - Programming Languages: JavaScript
