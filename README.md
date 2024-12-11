@@ -6,7 +6,7 @@ Kim Garcia Moguer
 
 ### Certifications
 - SQL and Relational Databases 101
-- https://mylearn.oracle.com/ou/learning-path/become-an-oracle-cloud-infrastructure-data-foundations-associate-2024/140339
+- https://catalog-education.oracle.com/ords/certview/sharebadge?id=9EB112FA2E1633E1697A1A9E29CA470B0222482164062AAABC0DB7D7A6614FFA
 
 ### Skillsets
 - Programming Languages: JavaScript
