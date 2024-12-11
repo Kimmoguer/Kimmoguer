@@ -6,6 +6,7 @@ Kim Garcia Moguer
 
 ### Certifications
 - SQL and Relational Databases 101
+- Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate
 - https://catalog-education.oracle.com/ords/certview/sharebadge?id=9EB112FA2E1633E1697A1A9E29CA470B0222482164062AAABC0DB7D7A6614FFA
 
 ### Skillsets
