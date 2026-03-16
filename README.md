@@ -1,74 +1,67 @@
 <div align="center">
 
-![](https://your-image-link-here.com/banner.gif)
+# I'm Kim G. Moguer 👊
 
-# Hi, I'm Kim 👋
+### BS Computer Science | Aspiring Developer
 
-### Computer Science Student
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-
+<p>
+  <a href="mailto:kim.moguer@neu.edu.ph">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-I am a BS Computer Science student at New Era University.
-I enjoy programming, web development, gaming, and building useful systems.
+- 🎓 Currently taking **BS in Computer Science**
+- 💻 Interested in **web development, software development, and databases**
+- 🎮 I enjoy **gaming, coding, and learning new technologies**
+- 🌱 Currently improving my skills in **Java, PHP, JavaScript, and backend development**
+- 📌 Goal: to become a skilled developer and build useful systems
 
 ---
 
 ## 🎓 Education
 
-- **BS in Computer Science** | *New Era University* (2023 - Present)
-- **SHS (STEM)** | *New Era University* (2020 - 2023)
+- **BS in Computer Science** — *New Era University* (2023 - Present)
+- **STEM** — *New Era University* (2020 - 2023)
 
 ---
 
-## 🛠 Tech Stack & Skills
+## 🛠 Tech Stack
 
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Frontend Development
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TAILWINDCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend & BaaS
-![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/SUPABASE-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![IBM DB2](https://img.shields.io/badge/IBM_DB2-052FAD?style=for-the-badge)
-
-### Cloud & Tools
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GOOGLE_CLOUD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+### Backend / Database
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 📜 Certifications
 
-- Oracle Learning: [OCI 2024 Certified Foundations Associate](#)
-- Oracle Learning: [OCI 2024 Data Certified Foundations Associate](#)
-- Oracle Learning: [OCI 2024 Certified AI Foundations Associate](#)
-- Cognitive Class: [SQL and Relational Databases 101](#)
+- [Oracle Cloud Infrastructure 2024 Certified Foundations Associate]
+- [Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=9EB112FA2E1633E1697A1A9E29CA470B0222482164062AAABC0DB7D7A6614FFA)
+- [Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=877790DACC78305681899AF72D721E1A42A27ACA928ED2410314AB8731C2EB6D)
+- [SQL and Relational Databases 101]
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimmoguer&layout=compact&theme=tokyonight" alt="Top Languages" />
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+---
 
-</div>
+## 🤝 Connect With Me
+
+- Email: kim.moguer@neu.edu.ph
