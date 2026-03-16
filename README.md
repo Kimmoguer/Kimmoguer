@@ -68,7 +68,7 @@ A system for tracking and managing Memoranda of Agreement with dashboards for ad
 ### NEU Laboratory Usage Log
 A responsive full-stack app for tracking laboratory room usage by professors through QR code and institutional login.
 
-### NEUAssist Delivery Robot Arduino Mega
+### NEUAssist: A Smart, App-controlled Robot that Supplies Teachers with On-Demand Lecture Materials
 NEUAssist Delivery Robot Arduino Mega is an automated robot that uses an Arduino Mega to control movement, sensors, and item delivery, making transport faster and more efficient.
 
 ## 📊 Most Used Languages
