@@ -57,6 +57,20 @@
 
 ---
 
+## 📂 Featured Projects
+
+### Exam Seating Arrangement System
+A Java and JavaFX project for managing seating arrangements, student information, and exam conflict detection.
+
+### NEU MOA Monitoring App
+A system for tracking and managing Memoranda of Agreement with dashboards for admins, faculty, and students.
+
+### NEU Laboratory Usage Log
+A responsive full-stack app for tracking laboratory room usage by professors through QR code and institutional login.
+
+### NEUAssist Delivery Robot Arduino Mega
+NEUAssist Delivery Robot Arduino Mega is an automated robot that uses an Arduino Mega to control movement, sensors, and item delivery, making transport faster and more efficient.
+
 ## 📊 Most Used Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimmoguer&layout=compact&theme=tokyonight" alt="Top Languages" />
