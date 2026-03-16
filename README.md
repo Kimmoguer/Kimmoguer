@@ -17,8 +17,8 @@
 ## 🚀 About Me
 
 - 🎓 Currently taking **BS in Computer Science**
-- 💻 Interested in **web development, software development, and databases**
-- 🎮 I enjoy **gaming, coding, and learning new technologies**
+- 💻 Interested in **Cybersecurity, software development, and ethical hacking**
+- 🎮 I enjoy **Gaming, Coding, Physical Activities, and learning new technologies**
 - 🌱 Currently improving my skills in **Java, PHP, JavaScript, and backend development**
 - 📌 Goal: to become a skilled developer and build useful systems
 
