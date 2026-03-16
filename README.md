@@ -1,8 +1,9 @@
 <div align="center">
 
-# I'm Kim G. Moguer 👊
+  # I'm Kim G. Moguer 👊
 
 ### BS Computer Science | Aspiring Developer
+![207963](https://github.com/user-attachments/assets/22a25022-702f-47d0-9b0d-1651566ce5c5)
 
 <p>
   <a href="mailto:kim.moguer@neu.edu.ph">
