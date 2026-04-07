@@ -73,7 +73,7 @@ NEUAssist Delivery Robot Arduino Mega is an automated robot that uses an Arduino
 
 ## 📊 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimmoguer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimmoguer&layout=compact)]
 
 ---
 
